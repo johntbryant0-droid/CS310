@@ -1,2 +1,4 @@
 # CS310
-For C++ course
+## Contributors 
+   * Robert Flowers
+   * John Bryant 
