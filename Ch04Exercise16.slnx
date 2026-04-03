@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ch04Exercise16/Ch04Exercise16.vcxproj" />
+</Solution>
